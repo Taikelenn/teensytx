@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADA4857")(type "KiCad")(uri "${KIPRJMOD}/ADA4857_1YRZ/KiCADv6/2025-07-03_19-38-05.kicad_sym")(options "")(descr ""))
+  (lib (name "UA78M09")(type "KiCad")(uri "${KIPRJMOD}/UA78M09CKVURG3/KiCADv6/2025-07-11_22-11-59.kicad_sym")(options "")(descr ""))
+  (lib (name "54-00166")(type "KiCad")(uri "${KIPRJMOD}/54_00166/54-00166.kicad_sym")(options "")(descr ""))
+  (lib (name "DMP3056")(type "KiCad")(uri "${KIPRJMOD}/DMP3056L_7/KiCADv6/2025-07-11_22-52-57.kicad_sym")(options "")(descr ""))
+  (lib (name "0ZCJ0020FF2E")(type "KiCad")(uri "${KIPRJMOD}/0ZCJ0020FF2E/0ZCJ0020FF2E.kicad_sym")(options "")(descr ""))
+  (lib (name "SMA-J-P-X-RA-TH1")(type "KiCad")(uri "${KIPRJMOD}/SMA_J_P_H_RA_TH1/SMA-J-P-X-RA-TH1.kicad_sym")(options "")(descr ""))
+  (lib (name "SLW-1277744-3A-N-D")(type "KiCad")(uri "${KIPRJMOD}/SLW_1277744_3A_N_D/SLW-1277744-3A-N-D.kicad_sym")(options "")(descr ""))
+  (lib (name "74CBT3253")(type "KiCad")(uri "${KIPRJMOD}/SN74CBT3253CDR/KiCADv6/2025-08-13_00-22-48.kicad_sym")(options "")(descr ""))
+  (lib (name "74LVC1G3157-Q100")(type "KiCad")(uri "${KIPRJMOD}/74LVC1G3157-Q100/74LVC1G3157-Q100.kicad_sym")(options "")(descr ""))
+  (lib (name "LMH6559MA")(type "KiCad")(uri "${KIPRJMOD}/LMH6559MA_NOPB/LMH6559MA.kicad_sym")(options "")(descr ""))
+)
